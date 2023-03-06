@@ -1,1 +1,1922 @@
-[{"english": "Strength", "yiddish": "\u05e7\u05e8\ufb2e\ufb4e\u05d8", "pronoun": "\u05d3\u05d9", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Dexterity", "yiddish": "\ufb4e\u05dc\u05d9\u05e0\u05e7\ufb1f\u05d8", "pronoun": "\u05d3\u05d9", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Constitution", "yiddish": "\u05d2\u05d5\u05e3-\u05d2\u05e2\u05d1\u05d5\u05d9", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Intelligence", "yiddish": "\u05d0\u05d9\u05e0\u05d8\u05e2\u05dc\u05d9\u05d2\u05e2\u05e0\u05e5", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Wisdom", "yiddish": "\u05d7\u05db\u05de\u05d4", "pronoun": "\u05d3\u05d9", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Charisma", "yiddish": "\u05db\ufb2e\u05e8\u05d9\u05d6\u05de\u05e2", "pronoun": "\u05d3\u05d9", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Saving throw", "yiddish": "\u05e8\u05d0\u05b7\u05d8\u05d9\u05e8-\u05f0\ufb2e\u05e8\u05e3", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Proficiency bonus", "yiddish": "\u05d1\u05d0\u05b7\u05d4\u05d0\u05b7\u05f0\u05e0\u05d8\u05e7\u05f2\u05d8-\u05e6\u05d5\u05d2\ufb2f\u05d1", "pronoun": "\u05d3\u05d9", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Armor class", "yiddish": "\ufb44\ufb2e\u05e0\u05e6\u05e2\u05e8-\u05de\u05d3\u05e8\u05d2\u05d4", "pronoun": "\u05d3\u05d9", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Initiative", "yiddish": "\u05e9\u05dc\ufb2e\u05db\u05d8-\u05e1\u05d3\u05e8", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Speed", "yiddish": "\u05d2\u05d9\u05db\u05e7\u05f2\u05d8", "pronoun": "\u05d3\u05d9", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Hit points", "yiddish": "\u05dc\u05e2\u05d1\u05df \u05e4\u05d5\u05e0\u05e7\u05d8\u2060\u05df", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Hit dice (pl.)", "yiddish": "\u05dc\u05e2\u05d1\u05df-\u05d8\ufb2f\ufb44\u05dc\u05e9\u05d8\u05f2\u05e0\u05e2\u05e8", "pronoun": "\u05d3\u05d9", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Dungeons & Dragons  ", "yiddish": "\u05d3\u05e2\u05e8\u05e4\u05bf\u05e2\u05e8 \u05d0\u05d5\u05df \u05d3\u05e8\u05d0\u05b7\u05e7\u05d0\u05b8\u05e0\u05e2\u05df", "pronoun": "", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "Villages and Dragons", "alternative_yiddish": ""}, {"english": "Character", "yiddish": "\u05e4\u05bc\u05e2\u05e8\u05e1\u05d0\u05b8\u05e0\u05d0\u05b7\u05d6\u05e9", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Character name", "yiddish": "\u05e4\u05bc\u05e2\u05e8\u05e1\u05d0\u05b8\u05e0\u05d0\u05b7\u05d6\u05e9 \u05e0\u05d0\u05b8\u05de\u05e2\u05df", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Class", "yiddish": "\u05e7\u05dc\u05d0\u05b7\u05e1", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Level", "yiddish": "\u05de\u05d3\u05e8\u05d2\u05d4", "pronoun": "\u05d3\u05d9 ", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Background", "yiddish": "\u05d0\u05b8\u05e4\u05bc\u05e9\u05d8\u05d0\u05b7\u05dd", "pronoun": "\u05d3\u05e2\u05e8 ", "unhappy": true, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Race ", "yiddish": "\u05d6\u05d2\u05d0\u05b7\u05dc", "pronoun": "\u05d3\u05e2\u05e8 ", "unhappy": true, "constructed": false, "category": "character sheet", "literal": "species (to be in line with WotC changing terminology)", "alternative_yiddish": "\u05e9\u05d8\u05d0\u05b7\u05dd"}, {"english": "Player name", "yiddish": "\u05e9\u05e4\u05bc\u05d9\u05dc\u05e2\u05e8-\u05e0\u05d0\u05b8\u05de\u05e2\u05df", "pronoun": "\u05d3\u05e2\u05e8 ", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Alignment", "yiddish": "\u05d0\u05f2\u05b7\u05e0\u05e9\u05d8\u05d9\u05de\u05d5\u05e0\u05d2", "pronoun": "\u05d3\u05d9 ", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Experience points ", "yiddish": "\u05e4\u05bc\u05e8\u05d0\u05b7\u05e7\u05d8\u05d9\u05e7-\u05e4\u05bc\u05d5\u05e0\u05e7\u05d8\u2060\u05df", "pronoun": "(singular \u05d3\u05e2\u05e8) \u05d3\u05d9 ", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "Practice/experience points", "alternative_yiddish": ""}, {"english": "Points", "yiddish": "\u05e4\u05bc\u05d5\u05e0\u05e7\u05d8\u2060\u05df", "pronoun": "(singular \u05d3\u05e2\u05e8) \u05d3\u05d9 ", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Inspiration", "yiddish": " \u05d0\u05d9\u05e0\u05e1\u05e4\u05bc\u05d9\u05e8\u05d0\u05b7\u05e6\u05d9\u05e2", "pronoun": "\u05d3\u05d9 ", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Proficiency", "yiddish": "\u05d1\u05d0\u05b7\u05d4\u05d0\u05b7\u05f0\u05e0\u05d8\u05e7\u05f2\u05d8", "pronoun": "\u05d3\u05d9", "unhappy": true, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Armor", "yiddish": "\ufb44\ufb2e\u05e0\u05e6\u05e2\u05e8", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Hit point maximum", "yiddish": "\u05dc\u05e2\u05d1\u05df \u05de\u05d0\u05b7\u05e7\u05e1\u05d9\u05de\u05d5\u05dd", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Current hit points", "yiddish": "\u05dc\u05f1\u05e4\u05bf\u05d9\u05e7 \u05dc\u05e2\u05d1\u05df", "pronoun": "\u05d3\ufb2f\u05e1", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Temporary hit points", "yiddish": "\u05d3\u05e2\u05e8\u05f0\u05f2\u05b7\u05dc\u05d9\u05e7 \u05dc\u05e2\u05d1\u05df", "pronoun": "\u05d3\ufb2f\u05e1", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Total", "yiddish": "\u05e1\u05da-\u2060\u05d4\u05db\u05bc\u05dc", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Successes", "yiddish": "\u05d4\u05e6\u05dc\u05d7\u05d4\u2060\u05d5\u05ea", "pronoun": "\u05d3\u05d9 ", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Failure", "yiddish": "\u05d3\u05d5\u05e8\u05db\u05e4\u05bf\u05d0\u05b7\u05dc", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Save", "yiddish": "\u05e8\u05d0\u05b7\u05d8\u05d9\u05e8", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": true, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Acrobatics ", "yiddish": "\ufb2e\u05e7\u05e8\ufb2f\u05d1\ufb2e\u05d8\u05d9\u05e7", "pronoun": "\u05d3\u05d9 ", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Animal Handling", "yiddish": "\u05d7\u05d9\u05d4-\u05d1\ufb2e\u05d4\ufb2e\u05e0\u05d3\u05dc\u05e2\u05df ", "pronoun": "\u05d3\ufb2f\u05e1", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Arcana", "yiddish": "\u05e8\u05d6\u05d9\u05df-\u05d3\u05e8\u05d6\u05d9\u05df ", "pronoun": "\u05d3\u05d9 ", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Athletics", "yiddish": "\ufb2e\u05d8\u05dc\u05e2\u05d8\u05d9\u05e7", "pronoun": "\u05d3\u05d9 ", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Deception", "yiddish": "\u05d2\u05e2\u05e0\u05d0\u05b7\u05e8\u05e2\u05e8\u05f2\u05b7", "pronoun": "\u05d3\ufb2f\u05e1", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "History", "yiddish": "\u05d2\u05e2\u05e9\u05d9\u05db\u05d8\u05e2", "pronoun": "\u05d3\u05d9 ", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Insight", "yiddish": "\ufb4e\ufb2e\u05e8\u05e9\u05d8\ufb2e\u05e0\u05d3", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Intimidation", "yiddish": "\u05d0\ufb1f\u05e0\u05e9\u05e8\u05e2\u05e7\u05df ", "pronoun": "\u05d3\ufb2f\u05e1", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Investigation", "yiddish": "\u05d0\u05d9\u05e0\u05f0\u05e2\u05e1\u05d8\u05d9\u05d2\ufb2e\u05e6\u05d9\u05e2 (\ufb2e\u05e8\u05d5\u05de\u05d8\ufb2e\ufb4e\u05df)", "pronoun": "\u05d3\u05d9 ", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Medicine", "yiddish": "\u05de\u05e2\u05d3\u05d9\u05e6\u05d9\u05df", "pronoun": "\u05d3\u05d9 ", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Nature", "yiddish": "\u05e0\ufb2e\u05d8\u05d5\u05e8", "pronoun": "\u05d3\u05d9 ", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Perception", "yiddish": "\u05de\u05e2\u05e8\u05e7\u05d5\u05e0\u05d2", "pronoun": "\u05d3\u05d9 ", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Performance", "yiddish": "\ufb4e\ufb2f\u05e8\u05e9\u05d8\u05e2\u05dc\u05d5\u05e0\u05d2", "pronoun": "\u05d3\u05d9 ", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Persuasion ", "yiddish": "\u05d0\ufb1f\u05e0\u05e8\u05e2\u05d3\u05df", "pronoun": "\u05d3\ufb2f\u05e1", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Religion", "yiddish": "\u05e8\u05e2\u05dc\u05d9\u05d2\u05d9\u05e2", "pronoun": "\u05d3\u05d9 ", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Sleight of Hand", "yiddish": "\u05e9\u05f0\ufb2e\u05e8\u05e6\u05e7\u05d5\u05e0\u05e1\u05d8", "pronoun": "\u05d3\u05d9 ", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Stealth", "yiddish": "\u05d2\u05e0\ufb4c\u05d9\u05e9\u05e7\u05f2\u05d8", "pronoun": "\u05d3\u05d9 ", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Survival", "yiddish": "\u05d0\u05d9\u05d1\u05e2\u05e8\u05dc\u05e2\u05d1\u05df-\ufb4e\u05e2\u05d9\u05e7\u05f2\u05d8\u05df ", "pronoun": "\u05d3\u05d9 ", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Type ", "yiddish": "\u05d8\u05d9\u05e4\u05bc", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Attack(s)", "yiddish": "\u05d0\u05b7\u05d8\u05d0\u05b7\u05e7, -\u2060\u05df", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Traits", "yiddish": "\u05e9\u05d8\u05e8\u05d9\u05da, -\u2060\u05df", "pronoun": "\u05d3\u05e2\u05e8 ", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Personality traits ", "yiddish": "\u05e4\u05bc\u05e2\u05e8\u05d6\u05e2\u05e0\u05dc\u05e2\u05db\u05e2 \u05d0\u05d9\u05d9\u05d2\u05e0\u05e9\u05d0\u05b7\u05e4\u05d8\u05df", "pronoun": "\u05d3\u05d9", "unhappy": true, "constructed": false, "category": "character sheet", "literal": "Personal Characteristics", "alternative_yiddish": ""}, {"english": "Bonds", "yiddish": "\u05e4\u05d0\u05b7\u05e8\u05d1\u05d9\u05e0\u05d3\u05d5\u05e0\u05d2\u05e2\u05df", "pronoun": "\u05d3\u05d9", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Passive (adj.)", "yiddish": "\u05e4\u05bc\u05d0\u05b7\u05e1\u05d9\u05d5\u05d5", "pronoun": "", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Passive wisdom", "yiddish": "\u05e4\u05bc\u05d0\u05b7\u05e1\u05d9\u05d5\u05d5\u05e2 \u05d7\u05db\u05de\u05d4", "pronoun": "\u05d3\u05d9", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Flaw(s)", "yiddish": "\u05d7\u05e1\u05e8\u05d5\u05df, -\u2060\u05d5\u05ea/-\u2060\u05d9\u05dd", "pronoun": "\u05d3\u05e2\u05e8 ", "unhappy": true, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Damage", "yiddish": "\u05e9\u05d0\u05b8\u05d3\u05df", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Ideal(s)", "yiddish": "\u05d0\u05d9\u05d3\u05e2\u05d0\u05b7\u05dc -\u05df", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Feature(s)", "yiddish": "\u05db\u05d0\u05b7\u05e8\u05d0\u05b7\u05e7\u05d8\u05e2\u05e8\u05d9\u05e1\u05d8\u05d9\u05e7, -\u2060\u05e2\u05e1", "pronoun": "\u05d3\u05d9", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Language(s)", "yiddish": "\u05e9\u05e4\u05bc\u05e8\u05d0\u05b7\u05da, -\u2060\u05df", "pronoun": "\u05d3\u05d9", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Equipment", "yiddish": "\u05d0\u05f1\u05e1\u05e8\u05d9\u05db\u05d8", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": true, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Name", "yiddish": "\u05e0\u05d0\u05b8\u05de\u05e2\u05df", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Spellcasting ", "yiddish": "\u05db\u05bc\u05d9\u05e9\u05d5\u05e3", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "Magic", "alternative_yiddish": ""}, {"english": "Other proficiencies", "yiddish": "\u05d0\u05b7\u05e0\u05d3\u05e2\u05e8\u05e2 \u05d1\ufb2e\u05d4\ufb2e\u05f0\u05e0\u05d8\u05e7\u05f2\u05d8\u05df", "pronoun": "", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Attack bonus", "yiddish": "\u05d0\u05b7\u05d8\u05d0\u05b7\u05e7-\u05e6\u05d5\u05d2\ufb2f\u05d1", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Death save (s)", "yiddish": "\u05d8\u05f1\u05d8-\u05f0\ufb2e\u05e8\u05e3 ,-\ufb4e\u05df ", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Spellcasting Class", "yiddish": "\u05db\u05bc\u05d9\u05e9\u05d5\u05e3 \u05e7\u05dc\u05d0\u05b7\u05e1", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "optional character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Spellcasting Ability", "yiddish": "\u05db\u05bc\u05d9\u05e9\u05d5\u05e3 \u05d9\u05db\u05d5\u05dc\u05ea", "pronoun": "\u05d3\ufb2f\u05e1", "unhappy": false, "constructed": false, "category": "optional character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Spell Save DC", "yiddish": "\u05db\u05bc\u05d9\u05e9\u05d5\u05e3 \u05e8\u05d0\u05b7\u05d8\u05d9\u05e8 \u05e0\u05d5\u05de\u05e2\u05e8", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "optional character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Spell Attack Bonus", "yiddish": "\u05db\u05bc\u05d9\u05e9\u05d5\u05e3 \u05d0\u05b7\u05d8\u05d0\u05b7\u05e7 \u05e6\u05d5\u05d2\ufb2f\u05d1", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "optional character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Cantrip(s)", "yiddish": "\u05de\u05d9\u05e0\u05e2\u05e8\u05d3\u05d9\u05e7\u05e2\u05e8 \u05db\u05bc\u05d9\u05e9\u05d5\u05e3", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "optional character sheet", "literal": "", "alternative_yiddish": "\ufb3b\u05d9\u05e9\u05d5\ufb4e\u05dc -\u05e2\u05da"}, {"english": "Spell Level", "yiddish": "\u05db\u05bc\u05d9\u05e9\u05d5\u05e3 \u05de\u05d3\u05e8\u05d2\u05d4", "pronoun": "\u05d3\u05d9", "unhappy": false, "constructed": false, "category": "optional character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Slots Total", "yiddish": "\u05d8\u05d0\u05b8\u05d8\u05d0\u05b7\u05dc\u05e2 \u05e9\u05e4\u05bc\u05e2\u05dc\u05d8\u05dc\u05e2\u05da", "pronoun": "\u05d3\u05d9", "unhappy": false, "constructed": false, "category": "optional character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Slots Expended", "yiddish": "\u05d2\u05e2\u05e0\u05d9\u05e6\u05d8\u05e2 \u05e9\u05e4\u05bc\u05e2\u05dc\u05d8\u05dc\u05e2\u05da", "pronoun": "\u05d3\u05d9", "unhappy": false, "constructed": false, "category": "optional character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Spell Name", "yiddish": "\u05db\u05bc\u05d9\u05e9\u05d5\u05e3 \u05e0\u05d0\u05b8\u05de\u05e2\u05df", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "optional character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Age", "yiddish": "\u05e2\u05dc\u05d8\u05e2\u05e8", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "optional character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Height", "yiddish": "\u05f0\u05d5\u05bc\u05e7\u05e1", "pronoun": "\u05d3\u05e2\u05e8 ", "unhappy": false, "constructed": false, "category": "optional character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Weight", "yiddish": "\u05f0\u05d0\u05b8\u05d2", "pronoun": "\u05d3\u05d9 ", "unhappy": false, "constructed": false, "category": "optional character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Eyes", "yiddish": "\u05d0\u05f1\u05d2\u05df", "pronoun": "\u05d3\u05d9 ", "unhappy": false, "constructed": false, "category": "optional character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Skin", "yiddish": "\u05d4\u05f1\u05d8", "pronoun": "\u05d3\u05d9", "unhappy": false, "constructed": false, "category": "optional character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Hair", "yiddish": "\u05d4\u05d0\u05b8\u05e8", "pronoun": "\u05d3\u05d9", "unhappy": false, "constructed": false, "category": "optional character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Character Appearance", "yiddish": "\u05e4\u05bc\u05e2\u05e8\u05e1\u05d0\u05b8\u05e0\u05d0\u05b7\u05d6\u05e9 \u05d0\u05f1\u05e1\u05d6\u05e2\u05df", "pronoun": "\u05d3\u05d0\u05b8\u05e1", "unhappy": true, "constructed": false, "category": "optional character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Allies & Organizations", "yiddish": "\u05d0\u05b7\u05dc\u05d9\u05d0\u05b7\u05e0\u05d8\u2060\u05df \u05d0\u05d5\u05df \u05d0\u05b8\u05e8\u05d2\u05d0\u05b7\u05e0\u05d9\u05d6\u05d0\u05b7\u05e6\u05d9\u05e2\u05e1", "pronoun": "", "unhappy": false, "constructed": false, "category": "optional character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Character Backstory ", "yiddish": "\u05e4\u05bc\u05e2\u05e8\u05e1\u05d0\u05b8\u05e0\u05d0\u05b7\u05d6\u05e9 \u05d4\u05d9\u05e0\u05d8\u05e2\u05e8\u05d2\u05e2\u05e9\u05d9\u05db\u05d8\u05e2", "pronoun": "\u05d3\u05d9", "unhappy": true, "constructed": false, "category": "optional character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Additional Features and Traits", "yiddish": "\u05e0\u05d0\u05b8\u05da \u05db\u05d0\u05b7\u05e8\u05d0\u05b7\u05e7\u05d8\u05e2\u05e8\u05d9\u05e1\u05d8\u05d9\u05e7\u05e2\u05e1 \u05d0\u05d5\u05df \u05e9\u05d8\u05e8\u05d9\u05db\u2060\u05df", "pronoun": "", "unhappy": false, "constructed": false, "category": "optional character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Treasure", "yiddish": "\u05d0\u05d5\u05e6\u05e8", "pronoun": "\u05d3\u05e2\u05e8 ", "unhappy": false, "constructed": false, "category": "optional character sheet", "literal": "", "alternative_yiddish": ""}, {"english": "Barbarian", "yiddish": "\u05d1\u05d0\u05b7\u05e8\u05d1\u05d0\u05b7\u05e8", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "character creation", "literal": "", "alternative_yiddish": ""}, {"english": "Bard", "yiddish": "\u05d1\u05d0\u05b7\u05e8\u05d3", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "character creation", "literal": "", "alternative_yiddish": ""}, {"english": "Cleric", "yiddish": "\u05e7\u05dc\u05e2\u05e8\u05d9\u05e7\u05e2\u05e8", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "character creation", "literal": "", "alternative_yiddish": ""}, {"english": "Druid ", "yiddish": "\u05d3\u05e8\u05d5\ufb1d\u05d3", "pronoun": "\u05d3\u05e2\u05e8 ", "unhappy": true, "constructed": false, "category": "character creation", "literal": "transliteration of Druid", "alternative_yiddish": ""}, {"english": "Fighter", "yiddish": "\u05e7\u05e2\u05de\u05e4\u05bf\u05e2\u05e8", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": true, "constructed": false, "category": "character creation", "literal": "", "alternative_yiddish": ""}, {"english": "Monk", "yiddish": "\u05de\u05d0\u05b8\u05e0\u05d0\u05b7\u05da", "pronoun": "\u05d3\u05e2\u05e8 ", "unhappy": true, "constructed": false, "category": "character creation", "literal": "", "alternative_yiddish": ""}, {"english": "Paladin", "yiddish": "\u05e4\u05bc\u05d0\u05b7\u05dc\u05d0\u05b7\u05d3\u05d9\u05df", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "character creation", "literal": "", "alternative_yiddish": ""}, {"english": "Ranger", "yiddish": "\u05f0\u05d0\u05b7\u05dc\u05d3-\u2060\u05d0\u05f1\u05e4\u05bf\u05d6\u05e2\u05e2\u05e8", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "character creation", "literal": "", "alternative_yiddish": ""}, {"english": "Rogue ", "yiddish": "\u05d6\u05e9\u05d5\u05dc\u05d9\u05e7", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": true, "constructed": false, "category": "character creation", "literal": "Knave/Charlatan/Crook", "alternative_yiddish": ""}, {"english": "Rogue ", "yiddish": "\u05d2\u05e0\u05d1\u05bf", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": true, "constructed": false, "category": "character creation", "literal": "Thief", "alternative_yiddish": ""}, {"english": "Sorcerer", "yiddish": "\u05db\u05bc\u05d9\u05e9\u05d5\u05e3-\u2060\u05de\u05d0\u05b7\u05db\u05e2\u05e8", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": true, "constructed": false, "category": "character creation", "literal": "", "alternative_yiddish": ""}, {"english": "Wizard", "yiddish": "\u05de\u05db\u05e9\u05e3", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": true, "constructed": false, "category": "character creation", "literal": "", "alternative_yiddish": ""}, {"english": "Warlock", "yiddish": "\u05de\u05e7\u05d5\u05d1\u05dc", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": true, "constructed": false, "category": "character creation", "literal": "", "alternative_yiddish": ""}, {"english": "Human", "yiddish": "\u05de\u05e2\u05e0\u05d8\u05e9", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": true, "constructed": false, "category": "character creation", "literal": "", "alternative_yiddish": ""}, {"english": "Elf", "yiddish": "\u05e2\u05dc\u05e3", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "character creation", "literal": "", "alternative_yiddish": ""}, {"english": "Dwarf", "yiddish": "\u05e9\u05e8\u05e2\u05d8\u05dc", "pronoun": "\u05d3\u05d0\u05b8\u05e1", "unhappy": false, "constructed": false, "category": "character creation", "literal": "", "alternative_yiddish": ""}, {"english": "Tiefling ", "yiddish": "\u05d8\u05d9\ufb4e\u05dc\u05d9\u05e0\u05d2", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": true, "constructed": false, "category": "character creation", "literal": "transliteration of Tiefling", "alternative_yiddish": ""}, {"english": "Tiefling ", "yiddish": "\u05d8\u05d9\ufb4e\u05e0\u05d9\u05e7", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": true, "constructed": true, "category": "character creation", "literal": "one of the deep", "alternative_yiddish": ""}, {"english": "Half-Elf", "yiddish": "\u05d4\u05d0\u05b7\u05dc\u05d1-\u05e2\u05dc\u05e3", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "character creation", "literal": "", "alternative_yiddish": ""}, {"english": "Gnome", "yiddish": "\u05e9\u05e8\u05e2\u05d8\u05dc\u05d3\u05d9\u05e7", "pronoun": "\u05d3\u05d0\u05b8\u05e1", "unhappy": true, "constructed": false, "category": "character creation", "literal": "", "alternative_yiddish": ""}, {"english": "Halfling", "yiddish": "\u05d4\u05d0\u05b7\u05dc\u05d1\u05dc\u05d9\u05e0\u05d2", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": true, "constructed": true, "category": "character creation", "literal": "", "alternative_yiddish": "\u05d4\u05d0\u05b7\u05dc\u05d1\u05e0\u05d9\u05e7"}, {"english": "Half-Orc", "yiddish": "\u05d4\u05d0\u05b7\u05dc\u05d1-\ufb2f\u05e8\u05e7", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": true, "constructed": false, "category": "character creation", "literal": "", "alternative_yiddish": ""}, {"english": "Chaotic", "yiddish": "\u05db\u05d0\u05b7\u05d0\u05b8\u05d8\u05d9\u05e9", "pronoun": "", "unhappy": false, "constructed": false, "category": "character creation", "literal": "", "alternative_yiddish": ""}, {"english": "Lawful", "yiddish": "\u05d2\u05e2\u05d6\u05e2\u05e6\u05dc\u05e2\u05da", "pronoun": "", "unhappy": false, "constructed": false, "category": "character creation", "literal": "", "alternative_yiddish": ""}, {"english": "Neutral", "yiddish": "\u05e0\u05f2\u05d8\u05e8\u05d0\u05b7\u05dc", "pronoun": "", "unhappy": false, "constructed": false, "category": "character creation", "literal": "", "alternative_yiddish": ""}, {"english": "Evil", "yiddish": "\u05d1\u05f2\u05d6", "pronoun": "", "unhappy": false, "constructed": false, "category": "character creation", "literal": "", "alternative_yiddish": ""}, {"english": "Good", "yiddish": "\u05d2\u05d5\u05d8", "pronoun": "", "unhappy": false, "constructed": false, "category": "character creation", "literal": "", "alternative_yiddish": ""}, {"english": "Expertise", "yiddish": "\u05e4\u05bc\u05e8\u05d0\u05b7\u05e7\u05d8\u05d9\u05e7", "pronoun": "\u05d3\u05d9", "unhappy": false, "constructed": false, "category": "character creation", "literal": "", "alternative_yiddish": ""}, {"english": "Common (language)", "yiddish": "\u05d9\u05d9\u05b4\u05d3\u05d9\u05e9", "pronoun": "\u05d3\u05d0\u05b8\u05e1", "unhappy": false, "constructed": false, "category": "character creation", "literal": "", "alternative_yiddish": ""}, {"english": "Elvish", "yiddish": "\u05e2\u05dc\u05e4\u05bf\u05d9\u05e9", "pronoun": "\u05d3\u05d0\u05b8\u05e1", "unhappy": false, "constructed": false, "category": "character creation", "literal": "", "alternative_yiddish": ""}, {"english": "Sylvan", "yiddish": "\u05e4\u05bf\u05e2\u05e2-\u05dc\u05e9\u05d5\u05df", "pronoun": "\u05d3\u05d0\u05b8\u05e1", "unhappy": false, "constructed": false, "category": "character creation", "literal": "", "alternative_yiddish": ""}, {"english": "Gold Coin (s)", "yiddish": "\u05d2\u05d0\u05b8\u05dc\u05d3\u05e2\u05e0\u05e2 \u05de\u05d8\u05d1\u05e2, -\u2060\u05d5\u05ea", "pronoun": "\u05d3\u05d9", "unhappy": false, "constructed": false, "category": "items", "literal": "", "alternative_yiddish": ""}, {"english": "Silver Coin (s)", "yiddish": "\u05d6\u05d9\u05dc\u05d1\u05e2\u05e8\u05e0\u05e2 \u05de\u05d8\u05d1\u05e2, -\u2060\u05d5\u05ea", "pronoun": "\u05d3\u05d9", "unhappy": false, "constructed": false, "category": "items", "literal": "", "alternative_yiddish": ""}, {"english": "Copper Coin (s)", "yiddish": "\u05e7\u05d5\u05e4\u05bc\u05e2\u05e8\u05e0\u05e2 \u05de\u05d8\u05d1\u05e2, -\u2060\u05d5\u05ea", "pronoun": "\u05d3\u05d9", "unhappy": false, "constructed": false, "category": "items", "literal": "", "alternative_yiddish": ""}, {"english": "Platinum Coin (s)", "yiddish": "\u05e4\u05bc\u05dc\u05d0\u05b7\u05d8\u05d9\u05e0\u05e2 \u05de\u05d8\u05d1\u05e2, -\u2060\u05d5\u05ea", "pronoun": "\u05d3\u05d9", "unhappy": false, "constructed": false, "category": "items", "literal": "", "alternative_yiddish": ""}, {"english": "Electrum Coin (s)", "yiddish": "\u05f0\u05f2\u05b7\u05e1-\u05d2\u05d0\u05b8\u05dc\u05d3\u05e2\u05e0\u05e2 \u05de\u05d8\u05d1\u05e2, -\u2060\u05d5\u05ea", "pronoun": "\u05d3\u05d9", "unhappy": false, "constructed": false, "category": "items", "literal": "", "alternative_yiddish": ""}, {"english": "Weapon", "yiddish": "\u05d2\u05e2\u05f0\u05e2\u05e8", "pronoun": "\u05d3\u05d0\u05b8\u05e1", "unhappy": false, "constructed": false, "category": "items", "literal": "", "alternative_yiddish": ""}, {"english": "Simple Weapons", "yiddish": "\u05e4\u05bc\u05e9\u05d5\u05d8\u05e2 \u05d2\u05e2\u05f0\u05e2\u05e8", "pronoun": "\u05d3\u05d0\u05b8\u05e1", "unhappy": false, "constructed": false, "category": "items", "literal": "", "alternative_yiddish": ""}, {"english": "Sword", "yiddish": "\u05e9\u05f0\u05e2\u05e8\u05d3", "pronoun": "\u05d3\u05d9", "unhappy": false, "constructed": false, "category": "items", "literal": "", "alternative_yiddish": ""}, {"english": "Longsword", "yiddish": "\u05dc\u05d0\u05b7\u05e0\u05d2\u05e9\u05f0\u05e2\u05e8\u05d3", "pronoun": "\u05d3\u05d9", "unhappy": false, "constructed": false, "category": "items", "literal": "", "alternative_yiddish": ""}, {"english": "Shortsword", "yiddish": "\u05e7\u05d5\u05e8\u05e6\u05e9\u05f0\u05e2\u05e8\u05d3", "pronoun": "\u05d3\u05d9", "unhappy": false, "constructed": false, "category": "items", "literal": "", "alternative_yiddish": ""}, {"english": "Rapir", "yiddish": "\u05e8\u05d0\u05b7\u05e4\u05bc\u05d9\u05e8", "pronoun": "\u05d3\u05d9 ", "unhappy": false, "constructed": false, "category": "items", "literal": "", "alternative_yiddish": ""}, {"english": "Axe", "yiddish": "\u05d4\u05d0\u05b7\u05e7", "pronoun": "\u05d3\u05d9", "unhappy": false, "constructed": false, "category": "items", "literal": "", "alternative_yiddish": ""}, {"english": "Battle-Axe", "yiddish": "\u05e7\u05e8\u05d9\u05d2\u05e1\u05d4\u05d0\u05b7\u05e7", "pronoun": "\u05d3\u05d9", "unhappy": false, "constructed": false, "category": "items", "literal": "", "alternative_yiddish": ""}, {"english": "Shield ", "yiddish": "\u05e4\u05bc\u05d0\u05b7\u05e0\u05e6\u05e2\u05e8", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "items", "literal": "Plate armor", "alternative_yiddish": ""}, {"english": "Shield ", "yiddish": "\u05e9\u05d9\u05dc\u05d3", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "items", "literal": "shield/metal plate/sign", "alternative_yiddish": ""}, {"english": "Light Armor", "yiddish": "\u05dc\u05f2\u05b7\u05db\u05d8\u05e2\u05e8 \ufb44\ufb2e\u05e0\u05e6\u05e2\u05e8", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "items", "literal": "", "alternative_yiddish": ""}, {"english": "Spear", "yiddish": "\u05e9\u05e4\u05bc\u05d9\u05d6", "pronoun": "\u05d3\u05d9 ", "unhappy": false, "constructed": false, "category": "items", "literal": "", "alternative_yiddish": ""}, {"english": "Crossbow", "yiddish": "\u05d0\u05b7\u05e8\u05d1\u05d0\u05b7\u05dc\u05e2\u05e1\u05d8", "pronoun": "\u05d3\u05e2\u05e8 ", "unhappy": false, "constructed": false, "category": "items", "literal": "", "alternative_yiddish": ""}, {"english": "Bow", "yiddish": "\u05d1\u05f1\u05d2\u05df", "pronoun": "\u05d3\u05e2\u05e8 ", "unhappy": false, "constructed": false, "category": "items", "literal": "", "alternative_yiddish": ""}, {"english": "Arrow", "yiddish": "\u05e4\u05bf\u05f2\u05b7\u05dc", "pronoun": "\u05d3\u05d9", "unhappy": false, "constructed": false, "category": "items", "literal": "", "alternative_yiddish": ""}, {"english": "Dagger", "yiddish": "\u05e9\u05d8\u05e2\u05db\u05de\u05e2\u05e1\u05e2\u05e8", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "items", "literal": "", "alternative_yiddish": ""}, {"english": "Knife", "yiddish": "\u05de\u05e2\u05e1\u05e2\u05e8", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "items", "literal": "", "alternative_yiddish": ""}, {"english": "Instrument", "yiddish": "\u05d0\u05d9\u05e0\u05e1\u05d8\u05e8\u05d5\u05de\u05e2\u05e0\u05d8", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "items", "literal": "", "alternative_yiddish": ""}, {"english": "Spell Book", "yiddish": "\u05db\u05bc\u05d9\u05e9\u05d5\u05e3-\u05d1\u05d5\u05da", "pronoun": "\u05d3\u05d0\u05b8\u05e1", "unhappy": false, "constructed": false, "category": "items", "literal": "", "alternative_yiddish": ""}, {"english": "Wand", "yiddish": "\u05db\u05bc\u05d9\u05e9\u05d5\u05e3-\u05e9\u05d8\u05e2\u05e7\u05dc", "pronoun": "\u05d3\u05d0\u05b8\u05e1", "unhappy": false, "constructed": false, "category": "items", "literal": "", "alternative_yiddish": ""}, {"english": "Magic Potion", "yiddish": "\u05db\u05bc\u05d9\u05e9\u05d5\u05e3-\u05d2\u05e2\u05d8\u05e8\u05d0\u05b7\u05e0\u05e7", "pronoun": "\u05d3\u05d0\u05b8\u05e1", "unhappy": false, "constructed": false, "category": "items", "literal": "", "alternative_yiddish": ""}, {"english": "Antidote/tonic/remedy potion", "yiddish": "\u05e8\u05e4\u05bf\u05d5\u05d0\u05d4-\u05d2\u05e2\u05d8\u05e8\u05d0\u05b7\u05e0\u05e7", "pronoun": "\u05d3\u05d0\u05b8\u05e1", "unhappy": true, "constructed": false, "category": "items", "literal": "", "alternative_yiddish": ""}, {"english": "Map", "yiddish": "\u05de\u05d0\u05b7\u05e4\u05bc\u05e2", "pronoun": "\u05d3\u05d9 ", "unhappy": false, "constructed": false, "category": "items", "literal": "", "alternative_yiddish": "\u05e7\u05d0\u05b7\u05e8\u05d8\u05e2"}, {"english": "Tent", "yiddish": "\u05d2\u05e2\u05e6\u05e2\u05dc\u05d8", "pronoun": "\u05d3\u05d0\u05b8\u05e1 ", "unhappy": false, "constructed": false, "category": "items", "literal": "", "alternative_yiddish": ""}, {"english": "Campfire", "yiddish": "\u05e9\u05f2\u05b7\u05d8\u05e2\u05e8", "pronoun": "\u05d3\u05e2\u05e8 ", "unhappy": false, "constructed": false, "category": "items", "literal": "", "alternative_yiddish": ""}, {"english": "Common Clothes", "yiddish": "\u05e4\u05bc\u05e9\u05d5\u05d8\u05e2 \u05e7\u05dc\u05f2\u05d3\u05d5\u05e0\u05d2", "pronoun": "\u05d3\u05d9 ", "unhappy": true, "constructed": false, "category": "items", "literal": "", "alternative_yiddish": ""}, {"english": "Chest", "yiddish": "\u05e7\u05d0\u05b7\u05e1\u05d8\u05df", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "items", "literal": "", "alternative_yiddish": ""}, {"english": "Forest", "yiddish": "\u05f0\u05d0\u05b7\u05dc\u05d3", "pronoun": "\u05d3\u05e2\u05e8 ", "unhappy": false, "constructed": false, "category": "locations", "literal": "", "alternative_yiddish": ""}, {"english": "Enchanted Forest", "yiddish": "\u05e4\u05bf\u05d0\u05b7\u05e8\u05db\u05bc\u05d9\u05e9\u05d5\u05e4\u05bf\u05d8\u05e2\u05e8 \u05f0\u05d0\u05b7\u05dc\u05d3", "pronoun": "\u05d3\u05e2\u05e8 ", "unhappy": false, "constructed": false, "category": "locations", "literal": "", "alternative_yiddish": ""}, {"english": "Mountain", "yiddish": "\u05d1\u05d0\u05b7\u05e8\u05d2", "pronoun": "\u05d3\u05e2\u05e8 ", "unhappy": false, "constructed": false, "category": "locations", "literal": "", "alternative_yiddish": ""}, {"english": "River", "yiddish": "\u05d8\u05f2\u05b7\u05da", "pronoun": "\u05d3\u05e2\u05e8 ", "unhappy": false, "constructed": false, "category": "locations", "literal": "", "alternative_yiddish": ""}, {"english": "Ocean", "yiddish": "\u05d9\u05dd", "pronoun": "\u05d3\u05e2\u05e8 ", "unhappy": false, "constructed": false, "category": "locations", "literal": "", "alternative_yiddish": ""}, {"english": "Castle", "yiddish": "\u05e9\u05dc\u05d0\u05b8\u05e1", "pronoun": "\u05d3\u05e2\u05e8 ", "unhappy": false, "constructed": false, "category": "locations", "literal": "", "alternative_yiddish": ""}, {"english": "Town", "yiddish": "\u05e9\u05d8\u05e2\u05d8\u05dc", "pronoun": "\u05d3\u05d0\u05b8\u05e1 ", "unhappy": false, "constructed": false, "category": "locations", "literal": "", "alternative_yiddish": ""}, {"english": "Village", "yiddish": "\u05d3\u05d0\u05b8\u05e8\u05e3", "pronoun": "\u05d3\u05d0\u05b8\u05e1 ", "unhappy": false, "constructed": false, "category": "locations", "literal": "", "alternative_yiddish": ""}, {"english": "Palace", "yiddish": "\u05e4\u05bc\u05d0\u05b7\u05dc\u05d0\u05b7\u05e5", "pronoun": "\u05d3\u05e2\u05e8 ", "unhappy": false, "constructed": false, "category": "locations", "literal": "", "alternative_yiddish": ""}, {"english": "Market", "yiddish": "\u05d9\u05d0\u05b7\u05e8\u05d9\u05d3", "pronoun": "\u05d3\u05e2\u05e8 ", "unhappy": false, "constructed": false, "category": "locations", "literal": "", "alternative_yiddish": ""}, {"english": "Store", "yiddish": "\u05e7\u05e8\u05d0\u05b8\u05dd", "pronoun": "\u05d3\u05d9 ", "unhappy": false, "constructed": false, "category": "locations", "literal": "", "alternative_yiddish": ""}, {"english": "Road", "yiddish": "\u05f0\u05e2\u05d2", "pronoun": "\u05d3\u05e2\u05e8 ", "unhappy": false, "constructed": false, "category": "locations", "literal": "", "alternative_yiddish": ""}, {"english": "Cave", "yiddish": "\u05d4\u05f2\u05dc", "pronoun": "\u05d3\u05d9 ", "unhappy": false, "constructed": false, "category": "locations", "literal": "", "alternative_yiddish": ""}, {"english": "Dungeon", "yiddish": "\u05e7\u05d0\u05b7\u05e8\u05e6\u05e2\u05e8", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "locations", "literal": "", "alternative_yiddish": ""}, {"english": "Monster", "yiddish": "\u05de\u05d0\u05b8\u05e0\u05e1\u05d8\u05e2\u05e8", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "monsters", "literal": "", "alternative_yiddish": ""}, {"english": "Dragon", "yiddish": "\u05d3\u05e8\u05d0\u05b7\u05e7\u05d0\u05b8\u05df", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "monsters", "literal": "", "alternative_yiddish": ""}, {"english": "Dragon/Viper Water Snake (leg.)", "yiddish": "\u05e4\u05bc\u05d9\u05e4\u05bc\u05e2\u05e8\u05e0\u05d0\u05b8\u05d8\u05e2\u05e8", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "monsters", "literal": "", "alternative_yiddish": ""}, {"english": "Wild Animal", "yiddish": "\u05f0\u05d9\u05dc\u05d3\u05e2 \u05d7\u05d9\u05d4", "pronoun": "\u05d3\u05d9", "unhappy": false, "constructed": false, "category": "monsters", "literal": "", "alternative_yiddish": ""}, {"english": "Wolf", "yiddish": "\u05f0\u05d0\u05b8\u05dc\u05e3", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "monsters", "literal": "", "alternative_yiddish": ""}, {"english": "Bear", "yiddish": "\u05d1\u05e2\u05e8", "pronoun": "\u05d3\u05e2\u05e8 ", "unhappy": false, "constructed": false, "category": "monsters", "literal": "", "alternative_yiddish": ""}, {"english": "Goblin", "yiddish": "\u05d3\u05d0\u05b8\u05de\u05d0\u05b8\u05e0\u05d9\u05e7", "pronoun": "\u05d3\u05e2\u05e8 ", "unhappy": false, "constructed": false, "category": "monsters", "literal": "", "alternative_yiddish": ""}, {"english": "Kobold", "yiddish": "\u05e7\u05d0\u05b8\u05d1\u05d0\u05b8\u05dc\u05d3", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "monsters", "literal": "", "alternative_yiddish": ""}, {"english": "Giant", "yiddish": "\u05d2\u05d9\u05d2\u05d0\u05b7\u05e0\u05d8", "pronoun": "\u05d3\u05e2\u05e8 ", "unhappy": false, "constructed": false, "category": "monsters", "literal": "", "alternative_yiddish": "\u05d3\u05e2\u05e8 \u05e8\u05d9\u05d6, \u05d3\u05d9 \u05d2\u05d5\u05d2-\u05d5\u05de\u05d2\u05d5\u05d2"}, {"english": "Ghost/Spirit", "yiddish": "\u05e9\u05d3", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "monsters", "literal": "", "alternative_yiddish": "\u05d2\u05f2\u05b7\u05e1\u05d8"}, {"english": "Devil", "yiddish": "\u05d8\u05f2\u05b7\u05f0\u05dc", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "monsters", "literal": "", "alternative_yiddish": "\u05e9\u05d3, \u05e9\u05c2\u05d8\u05df"}, {"english": "Party/Adventuring Party", "yiddish": "\u05e4\u05bc\u05d0\u05b7\u05e8\u05d8\u05d9\u05e2", "pronoun": "\u05d3\u05d9", "unhappy": false, "constructed": false, "category": "roleplaying", "literal": "", "alternative_yiddish": ""}, {"english": "Fight", "yiddish": "\u05d2\u05e2\u05e9\u05dc\u05e2\u05d2", "pronoun": "\u05d3\u05d0\u05b8\u05e1", "unhappy": false, "constructed": false, "category": "roleplaying", "literal": "", "alternative_yiddish": ""}, {"english": "DC (Dice Check)", "yiddish": "\u05f0\u05e2\u05e8\u05e4\u05bf\u05dc-\u05d1\u05d0\u05b7\u05e7\u05d5\u05e7", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "roleplaying", "literal": "", "alternative_yiddish": ""}, {"english": "Check", "yiddish": "\u05d1\u05d0\u05b7\u05e7\u05d5\u05e7\u05df", "pronoun": "", "unhappy": false, "constructed": false, "category": "roleplaying", "literal": "", "alternative_yiddish": ""}, {"english": "Die (Dice)", "yiddish": "\u05f0\u05e2\u05e8\u05e4\u05dc -\u05e2\u05da", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "roleplaying", "literal": "", "alternative_yiddish": ""}, {"english": "Sided ", "yiddish": "\u2026-\u05d6\u05f2\u05d8\u05d9\u05e7", "pronoun": "", "unhappy": false, "constructed": false, "category": "roleplaying", "literal": "", "alternative_yiddish": ""}, {"english": "Game Master ", "yiddish": "\u05e9\u05e4\u05bc\u05d9\u05dc-\u05de\u05f2\u05b7\u05e1\u05d8\u05e2\u05e8", "pronoun": "\u05d3\u05e2\u05e8 ", "unhappy": false, "constructed": false, "category": "roleplaying", "literal": "", "alternative_yiddish": ""}, {"english": "Player ", "yiddish": "\u05e9\u05e4\u05bc\u05dc\u05d9\u05e2\u05e8", "pronoun": "\u05d3\u05e2\u05e8 ", "unhappy": false, "constructed": false, "category": "roleplaying", "literal": "", "alternative_yiddish": ""}, {"english": "Skill Check", "yiddish": "\u05d1\u05e8\u05d9\u05d4\u05e9\u05d0\u05b7\u05e4\u05bf\u05d8-\u05d1\u05d0\u05b7\u05e7\u05d5\u05e7", "pronoun": "", "unhappy": false, "constructed": false, "category": "roleplaying", "literal": "", "alternative_yiddish": ""}, {"english": "To Slash", "yiddish": "\u05e6\u05e2\u05e9\u05e0\u05f2\u05b7\u05d3\u05df", "pronoun": "", "unhappy": false, "constructed": false, "category": "roleplaying", "literal": "", "alternative_yiddish": ""}, {"english": "To Stab", "yiddish": "\u05e9\u05d8\u05e2\u05db\u05df", "pronoun": "", "unhappy": false, "constructed": false, "category": "roleplaying", "literal": "", "alternative_yiddish": ""}, {"english": "To cast a spell on", "yiddish": "\u05e4\u05bf\u05d0\u05b7\u05e8\u05db\u05bc\u05d9\u05e9\u05d5\u05e4\u05bf\u05df", "pronoun": "", "unhappy": false, "constructed": false, "category": "roleplaying", "literal": "", "alternative_yiddish": ""}, {"english": "To travel", "yiddish": "\u05d0\u05b7\u05e8\u05d5\u05de\u05e4\u05bf\u05d0\u05b8\u05e8\u05df (\u05d0\u05d9\u05d1\u05e2\u05e8/\u05d0\u05d9\u05df/\u05d3\u05d5\u05e8\u05da)", "pronoun": "", "unhappy": false, "constructed": false, "category": "roleplaying", "literal": "", "alternative_yiddish": ""}, {"english": "Character Sheet", "yiddish": "\u05e4\u05bc\u05e2\u05e8\u05e1\u05d0\u05b8\u05e0\u05d0\u05d6\u05e9 \u05d1\u05f1\u05d2\u05df", "pronoun": "\u05d3\u05e2\u05e8", "unhappy": false, "constructed": false, "category": "roleplaying", "literal": "", "alternative_yiddish": ""}]
+[
+   {
+      "english": "Strength",
+      "yiddish": "קראַפֿט",
+      "pronoun": "די",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Dexterity",
+      "yiddish": "פֿלינקײַט",
+      "pronoun": "די",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Constitution",
+      "yiddish": "גוף-געבוי",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Intelligence",
+      "yiddish": "אינטעליגענץ",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Wisdom",
+      "yiddish": "חכמה",
+      "pronoun": "די",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Charisma",
+      "yiddish": "כאַריזמע",
+      "pronoun": "די",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Saving throw",
+      "yiddish": "ראַטיר-װאַרף",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Proficiency bonus",
+      "yiddish": "באַהאַװנטקײט-צוגאָב",
+      "pronoun": "די",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Armor class",
+      "yiddish": "פּאַנצער-מדרגה",
+      "pronoun": "די",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Initiative",
+      "yiddish": "שלאַכט-סדר",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Speed",
+      "yiddish": "גיכקײט",
+      "pronoun": "די",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Hit points",
+      "yiddish": "לעבן פונקט⁠ן",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Hit dice (pl.)",
+      "yiddish": "לעבן-טאָפּלשטײנער",
+      "pronoun": "די",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Dungeons & Dragons  ",
+      "yiddish": "דערפֿער און דראַקאָנען",
+      "pronoun": "",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "Villages and Dragons",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Character",
+      "yiddish": "פּערסאָנאַזש",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Character name",
+      "yiddish": "פּערסאָנאַזש נאָמען",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Class",
+      "yiddish": "קלאַס",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Level",
+      "yiddish": "מדרגה",
+      "pronoun": "די ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Background",
+      "yiddish": "אָפּשטאַם",
+      "pronoun": "דער ",
+      "unhappy": true,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Race ",
+      "yiddish": "זגאַל",
+      "pronoun": "דער ",
+      "unhappy": true,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "species (to be in line with WotC changing terminology)",
+      "alternative_yiddish": "שטאַם"
+   },
+   {
+      "english": "Player name",
+      "yiddish": "שפּילער-נאָמען",
+      "pronoun": "דער ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Alignment",
+      "yiddish": "אײַנשטימונג",
+      "pronoun": "די ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Experience points ",
+      "yiddish": "פּראַקטיק-פּונקט⁠ן",
+      "pronoun": "(singular דער) די ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "Practice/experience points",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Points",
+      "yiddish": "פּונקט⁠ן",
+      "pronoun": "(singular דער) די ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Inspiration",
+      "yiddish": " אינספּיראַציע",
+      "pronoun": "די ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Proficiency",
+      "yiddish": "באַהאַװנטקײט",
+      "pronoun": "די",
+      "unhappy": true,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Armor",
+      "yiddish": "פּאַנצער",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Hit point maximum",
+      "yiddish": "לעבן מאַקסימום",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Current hit points",
+      "yiddish": "לױפֿיק לעבן",
+      "pronoun": "דאָס",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Temporary hit points",
+      "yiddish": "דערװײַליק לעבן",
+      "pronoun": "דאָס",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Total",
+      "yiddish": "סך-⁠הכּל",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Successes",
+      "yiddish": "הצלחה⁠ות",
+      "pronoun": "די ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Failure",
+      "yiddish": "דורכפֿאַל",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Save",
+      "yiddish": "ראַטיר",
+      "pronoun": "דער",
+      "unhappy": true,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Acrobatics ",
+      "yiddish": "אַקראָבאַטיק",
+      "pronoun": "די ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Animal Handling",
+      "yiddish": "חיה-באַהאַנדלען ",
+      "pronoun": "דאָס",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Arcana",
+      "yiddish": "רזין-דרזין ",
+      "pronoun": "די ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Athletics",
+      "yiddish": "אַטלעטיק",
+      "pronoun": "די ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Deception",
+      "yiddish": "גענאַרערײַ",
+      "pronoun": "דאָס",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "History",
+      "yiddish": "געשיכטע",
+      "pronoun": "די ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Insight",
+      "yiddish": "פֿאַרשטאַנד",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Intimidation",
+      "yiddish": "אײַנשרעקן ",
+      "pronoun": "דאָס",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Investigation",
+      "yiddish": "אינװעסטיגאַציע (אַרומטאַפֿן)",
+      "pronoun": "די ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Medicine",
+      "yiddish": "מעדיצין",
+      "pronoun": "די ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Nature",
+      "yiddish": "נאַטור",
+      "pronoun": "די ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Perception",
+      "yiddish": "מערקונג",
+      "pronoun": "די ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Performance",
+      "yiddish": "פֿאָרשטעלונג",
+      "pronoun": "די ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Persuasion ",
+      "yiddish": "אײַנרעדן",
+      "pronoun": "דאָס",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Religion",
+      "yiddish": "רעליגיע",
+      "pronoun": "די ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Sleight of Hand",
+      "yiddish": "שװאַרצקונסט",
+      "pronoun": "די ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Stealth",
+      "yiddish": "גנבֿישקײט",
+      "pronoun": "די ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Survival",
+      "yiddish": "איבערלעבן-פֿעיקײטן ",
+      "pronoun": "די ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Type ",
+      "yiddish": "טיפּ",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Attack(s)",
+      "yiddish": "אַטאַק, -⁠ן",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Traits",
+      "yiddish": "שטריך, -⁠ן",
+      "pronoun": "דער ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Personality traits ",
+      "yiddish": "פּערזענלעכע אייגנשאַפטן",
+      "pronoun": "די",
+      "unhappy": true,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "Personal Characteristics",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Bonds",
+      "yiddish": "פאַרבינדונגען",
+      "pronoun": "די",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Passive (adj.)",
+      "yiddish": "פּאַסיוו",
+      "pronoun": "",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Passive wisdom",
+      "yiddish": "פּאַסיווע חכמה",
+      "pronoun": "די",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Flaw(s)",
+      "yiddish": "חסרון, -⁠ות/-⁠ים",
+      "pronoun": "דער ",
+      "unhappy": true,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Damage",
+      "yiddish": "שאָדן",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Ideal(s)",
+      "yiddish": "אידעאַל -ן",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Feature(s)",
+      "yiddish": "כאַראַקטעריסטיק, -⁠עס",
+      "pronoun": "די",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Language(s)",
+      "yiddish": "שפּראַך, -⁠ן",
+      "pronoun": "די",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Equipment",
+      "yiddish": "אױסריכט",
+      "pronoun": "דער",
+      "unhappy": true,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Name",
+      "yiddish": "נאָמען",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Spellcasting ",
+      "yiddish": "כּישוף",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "Magic",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Other proficiencies",
+      "yiddish": "אַנדערע באַהאַװנטקײטן",
+      "pronoun": "",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Attack bonus",
+      "yiddish": "אַטאַק-צוגאָב",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Death save (s)",
+      "yiddish": "טױט-װאַרף ,-פֿן ",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Spellcasting Class",
+      "yiddish": "כּישוף קלאַס",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "optional character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Spellcasting Ability",
+      "yiddish": "כּישוף יכולת",
+      "pronoun": "דאָס",
+      "unhappy": false,
+      "constructed": false,
+      "category": "optional character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Spell Save DC",
+      "yiddish": "כּישוף ראַטיר נומער",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "optional character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Spell Attack Bonus",
+      "yiddish": "כּישוף אַטאַק צוגאָב",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "optional character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Cantrip(s)",
+      "yiddish": "מינערדיקער כּישוף",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "optional character sheet",
+      "literal": "",
+      "alternative_yiddish": "כּישופֿל -עך"
+   },
+   {
+      "english": "Spell Level",
+      "yiddish": "כּישוף מדרגה",
+      "pronoun": "די",
+      "unhappy": false,
+      "constructed": false,
+      "category": "optional character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Slots Total",
+      "yiddish": "טאָטאַלע שפּעלטלעך",
+      "pronoun": "די",
+      "unhappy": false,
+      "constructed": false,
+      "category": "optional character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Slots Expended",
+      "yiddish": "געניצטע שפּעלטלעך",
+      "pronoun": "די",
+      "unhappy": false,
+      "constructed": false,
+      "category": "optional character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Spell Name",
+      "yiddish": "כּישוף נאָמען",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "optional character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Age",
+      "yiddish": "עלטער",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "optional character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Height",
+      "yiddish": "װוּקס",
+      "pronoun": "דער ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "optional character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Weight",
+      "yiddish": "װאָג",
+      "pronoun": "די ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "optional character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Eyes",
+      "yiddish": "אױגן",
+      "pronoun": "די ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "optional character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Skin",
+      "yiddish": "הױט",
+      "pronoun": "די",
+      "unhappy": false,
+      "constructed": false,
+      "category": "optional character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Hair",
+      "yiddish": "האָר",
+      "pronoun": "די",
+      "unhappy": false,
+      "constructed": false,
+      "category": "optional character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Character Appearance",
+      "yiddish": "פּערסאָנאַזש אױסזען",
+      "pronoun": "דאָס",
+      "unhappy": true,
+      "constructed": false,
+      "category": "optional character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Allies & Organizations",
+      "yiddish": "אַליאַנט⁠ן און אָרגאַניזאַציעס",
+      "pronoun": "",
+      "unhappy": false,
+      "constructed": false,
+      "category": "optional character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Character Backstory ",
+      "yiddish": "פּערסאָנאַזש הינטערגעשיכטע",
+      "pronoun": "די",
+      "unhappy": true,
+      "constructed": false,
+      "category": "optional character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Additional Features and Traits",
+      "yiddish": "נאָך כאַראַקטעריסטיקעס און שטריכ⁠ן",
+      "pronoun": "",
+      "unhappy": false,
+      "constructed": false,
+      "category": "optional character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Treasure",
+      "yiddish": "אוצר",
+      "pronoun": "דער ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "optional character sheet",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Barbarian",
+      "yiddish": "באַרבאַר",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character creation",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Bard",
+      "yiddish": "באַרד",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character creation",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Cleric",
+      "yiddish": "קלעריקער",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character creation",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Druid ",
+      "yiddish": "דרויִד",
+      "pronoun": "דער ",
+      "unhappy": true,
+      "constructed": false,
+      "category": "character creation",
+      "literal": "transliteration of Druid",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Fighter",
+      "yiddish": "קעמפֿער",
+      "pronoun": "דער",
+      "unhappy": true,
+      "constructed": false,
+      "category": "character creation",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Monk",
+      "yiddish": "מאָנאַך",
+      "pronoun": "דער ",
+      "unhappy": true,
+      "constructed": false,
+      "category": "character creation",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Paladin",
+      "yiddish": "פּאַלאַדין",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character creation",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Ranger",
+      "yiddish": "װאַלד-⁠אױפֿזעער",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character creation",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Rogue ",
+      "yiddish": "זשוליק",
+      "pronoun": "דער",
+      "unhappy": true,
+      "constructed": false,
+      "category": "character creation",
+      "literal": "Knave/Charlatan/Crook",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Rogue ",
+      "yiddish": "גנבֿ",
+      "pronoun": "דער",
+      "unhappy": true,
+      "constructed": false,
+      "category": "character creation",
+      "literal": "Thief",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Sorcerer",
+      "yiddish": "כּישוף-⁠מאַכער",
+      "pronoun": "דער",
+      "unhappy": true,
+      "constructed": false,
+      "category": "character creation",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Wizard",
+      "yiddish": "מכשף",
+      "pronoun": "דער",
+      "unhappy": true,
+      "constructed": false,
+      "category": "character creation",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Warlock",
+      "yiddish": "מקובל",
+      "pronoun": "דער",
+      "unhappy": true,
+      "constructed": false,
+      "category": "character creation",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Human",
+      "yiddish": "מענטש",
+      "pronoun": "דער",
+      "unhappy": true,
+      "constructed": false,
+      "category": "character creation",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Elf",
+      "yiddish": "עלף",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character creation",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Dwarf",
+      "yiddish": "שרעטל",
+      "pronoun": "דאָס",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character creation",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Tiefling ",
+      "yiddish": "טיפֿלינג",
+      "pronoun": "דער",
+      "unhappy": true,
+      "constructed": false,
+      "category": "character creation",
+      "literal": "transliteration of Tiefling",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Tiefling ",
+      "yiddish": "טיפֿניק",
+      "pronoun": "דער",
+      "unhappy": true,
+      "constructed": true,
+      "category": "character creation",
+      "literal": "one of the deep",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Half-Elf",
+      "yiddish": "האַלב-עלף",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character creation",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Gnome",
+      "yiddish": "שרעטלדיק",
+      "pronoun": "דאָס",
+      "unhappy": true,
+      "constructed": false,
+      "category": "character creation",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Halfling",
+      "yiddish": "האַלבלינג",
+      "pronoun": "דער",
+      "unhappy": true,
+      "constructed": true,
+      "category": "character creation",
+      "literal": "",
+      "alternative_yiddish": "האַלבניק"
+   },
+   {
+      "english": "Half-Orc",
+      "yiddish": "האַלב-אָרק",
+      "pronoun": "דער",
+      "unhappy": true,
+      "constructed": false,
+      "category": "character creation",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Chaotic",
+      "yiddish": "כאַאָטיש",
+      "pronoun": "",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character creation",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Lawful",
+      "yiddish": "געזעצלעך",
+      "pronoun": "",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character creation",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Neutral",
+      "yiddish": "נײטראַל",
+      "pronoun": "",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character creation",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Evil",
+      "yiddish": "בײז",
+      "pronoun": "",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character creation",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Good",
+      "yiddish": "גוט",
+      "pronoun": "",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character creation",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Expertise",
+      "yiddish": "פּראַקטיק",
+      "pronoun": "די",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character creation",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Common (language)",
+      "yiddish": "ייִדיש",
+      "pronoun": "דאָס",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character creation",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Elvish",
+      "yiddish": "עלפֿיש",
+      "pronoun": "דאָס",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character creation",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Sylvan",
+      "yiddish": "פֿעע-לשון",
+      "pronoun": "דאָס",
+      "unhappy": false,
+      "constructed": false,
+      "category": "character creation",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Gold Coin (s)",
+      "yiddish": "גאָלדענע מטבע, -⁠ות",
+      "pronoun": "די",
+      "unhappy": false,
+      "constructed": false,
+      "category": "items",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Silver Coin (s)",
+      "yiddish": "זילבערנע מטבע, -⁠ות",
+      "pronoun": "די",
+      "unhappy": false,
+      "constructed": false,
+      "category": "items",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Copper Coin (s)",
+      "yiddish": "קופּערנע מטבע, -⁠ות",
+      "pronoun": "די",
+      "unhappy": false,
+      "constructed": false,
+      "category": "items",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Platinum Coin (s)",
+      "yiddish": "פּלאַטינע מטבע, -⁠ות",
+      "pronoun": "די",
+      "unhappy": false,
+      "constructed": false,
+      "category": "items",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Electrum Coin (s)",
+      "yiddish": "װײַס-גאָלדענע מטבע, -⁠ות",
+      "pronoun": "די",
+      "unhappy": false,
+      "constructed": false,
+      "category": "items",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Weapon",
+      "yiddish": "געװער",
+      "pronoun": "דאָס",
+      "unhappy": false,
+      "constructed": false,
+      "category": "items",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Simple Weapons",
+      "yiddish": "פּשוטע געװער",
+      "pronoun": "דאָס",
+      "unhappy": false,
+      "constructed": false,
+      "category": "items",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Sword",
+      "yiddish": "שװערד",
+      "pronoun": "די",
+      "unhappy": false,
+      "constructed": false,
+      "category": "items",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Longsword",
+      "yiddish": "לאַנגשװערד",
+      "pronoun": "די",
+      "unhappy": false,
+      "constructed": false,
+      "category": "items",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Shortsword",
+      "yiddish": "קורצשװערד",
+      "pronoun": "די",
+      "unhappy": false,
+      "constructed": false,
+      "category": "items",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Rapir",
+      "yiddish": "ראַפּיר",
+      "pronoun": "די ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "items",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Axe",
+      "yiddish": "האַק",
+      "pronoun": "די",
+      "unhappy": false,
+      "constructed": false,
+      "category": "items",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Battle-Axe",
+      "yiddish": "קריגסהאַק",
+      "pronoun": "די",
+      "unhappy": false,
+      "constructed": false,
+      "category": "items",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Shield ",
+      "yiddish": "פּאַנצער",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "items",
+      "literal": "Plate armor",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Shield ",
+      "yiddish": "שילד",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "items",
+      "literal": "shield/metal plate/sign",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Light Armor",
+      "yiddish": "לײַכטער פּאַנצער",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "items",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Spear",
+      "yiddish": "שפּיז",
+      "pronoun": "די ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "items",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Crossbow",
+      "yiddish": "אַרבאַלעסט",
+      "pronoun": "דער ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "items",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Bow",
+      "yiddish": "בױגן",
+      "pronoun": "דער ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "items",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Arrow",
+      "yiddish": "פֿײַל",
+      "pronoun": "די",
+      "unhappy": false,
+      "constructed": false,
+      "category": "items",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Dagger",
+      "yiddish": "שטעכמעסער",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "items",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Knife",
+      "yiddish": "מעסער",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "items",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Instrument",
+      "yiddish": "אינסטרומענט",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "items",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Spell Book",
+      "yiddish": "כּישוף-בוך",
+      "pronoun": "דאָס",
+      "unhappy": false,
+      "constructed": false,
+      "category": "items",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Wand",
+      "yiddish": "כּישוף-שטעקל",
+      "pronoun": "דאָס",
+      "unhappy": false,
+      "constructed": false,
+      "category": "items",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Magic Potion",
+      "yiddish": "כּישוף-געטראַנק",
+      "pronoun": "דאָס",
+      "unhappy": false,
+      "constructed": false,
+      "category": "items",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Antidote/tonic/remedy potion",
+      "yiddish": "רפֿואה-געטראַנק",
+      "pronoun": "דאָס",
+      "unhappy": true,
+      "constructed": false,
+      "category": "items",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Map",
+      "yiddish": "מאַפּע",
+      "pronoun": "די ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "items",
+      "literal": "",
+      "alternative_yiddish": "קאַרטע"
+   },
+   {
+      "english": "Tent",
+      "yiddish": "געצעלט",
+      "pronoun": "דאָס ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "items",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Campfire",
+      "yiddish": "שײַטער",
+      "pronoun": "דער ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "items",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Common Clothes",
+      "yiddish": "פּשוטע קלײדונג",
+      "pronoun": "די ",
+      "unhappy": true,
+      "constructed": false,
+      "category": "items",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Chest",
+      "yiddish": "קאַסטן",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "items",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Forest",
+      "yiddish": "װאַלד",
+      "pronoun": "דער ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "locations",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Enchanted Forest",
+      "yiddish": "פֿאַרכּישופֿטער װאַלד",
+      "pronoun": "דער ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "locations",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Mountain",
+      "yiddish": "באַרג",
+      "pronoun": "דער ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "locations",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "River",
+      "yiddish": "טײַך",
+      "pronoun": "דער ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "locations",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Ocean",
+      "yiddish": "ים",
+      "pronoun": "דער ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "locations",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Castle",
+      "yiddish": "שלאָס",
+      "pronoun": "דער ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "locations",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Town",
+      "yiddish": "שטעטל",
+      "pronoun": "דאָס ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "locations",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Village",
+      "yiddish": "דאָרף",
+      "pronoun": "דאָס ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "locations",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Palace",
+      "yiddish": "פּאַלאַץ",
+      "pronoun": "דער ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "locations",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Market",
+      "yiddish": "יאַריד",
+      "pronoun": "דער ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "locations",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Store",
+      "yiddish": "קראָם",
+      "pronoun": "די ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "locations",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Road",
+      "yiddish": "װעג",
+      "pronoun": "דער ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "locations",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Cave",
+      "yiddish": "הײל",
+      "pronoun": "די ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "locations",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Dungeon",
+      "yiddish": "קאַרצער",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "locations",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Monster",
+      "yiddish": "מאָנסטער",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "monsters",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Dragon",
+      "yiddish": "דראַקאָן",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "monsters",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Dragon/Viper Water Snake (leg.)",
+      "yiddish": "פּיפּערנאָטער",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "monsters",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Wild Animal",
+      "yiddish": "װילדע חיה",
+      "pronoun": "די",
+      "unhappy": false,
+      "constructed": false,
+      "category": "monsters",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Wolf",
+      "yiddish": "װאָלף",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "monsters",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Bear",
+      "yiddish": "בער",
+      "pronoun": "דער ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "monsters",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Goblin",
+      "yiddish": "דאָמאָניק",
+      "pronoun": "דער ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "monsters",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Kobold",
+      "yiddish": "קאָבאָלד",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "monsters",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Giant",
+      "yiddish": "גיגאַנט",
+      "pronoun": "דער ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "monsters",
+      "literal": "",
+      "alternative_yiddish": "דער ריז, די גוג-ומגוג"
+   },
+   {
+      "english": "Ghost/Spirit",
+      "yiddish": "שד",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "monsters",
+      "literal": "",
+      "alternative_yiddish": "גײַסט"
+   },
+   {
+      "english": "Devil",
+      "yiddish": "טײַװל",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "monsters",
+      "literal": "",
+      "alternative_yiddish": "שד, שׂטן"
+   },
+   {
+      "english": "Party/Adventuring Party",
+      "yiddish": "פּאַרטיע",
+      "pronoun": "די",
+      "unhappy": false,
+      "constructed": false,
+      "category": "roleplaying",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Fight",
+      "yiddish": "געשלעג",
+      "pronoun": "דאָס",
+      "unhappy": false,
+      "constructed": false,
+      "category": "roleplaying",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "DC (Dice Check)",
+      "yiddish": "װערפֿל-באַקוק",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "roleplaying",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Check",
+      "yiddish": "באַקוקן",
+      "pronoun": "",
+      "unhappy": false,
+      "constructed": false,
+      "category": "roleplaying",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Die (Dice)",
+      "yiddish": "װערפל -עך",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "roleplaying",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Sided ",
+      "yiddish": "…-זײטיק",
+      "pronoun": "",
+      "unhappy": false,
+      "constructed": false,
+      "category": "roleplaying",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Game Master ",
+      "yiddish": "שפּיל-מײַסטער",
+      "pronoun": "דער ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "roleplaying",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Player ",
+      "yiddish": "שפּליער",
+      "pronoun": "דער ",
+      "unhappy": false,
+      "constructed": false,
+      "category": "roleplaying",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Skill Check",
+      "yiddish": "בריהשאַפֿט-באַקוק",
+      "pronoun": "",
+      "unhappy": false,
+      "constructed": false,
+      "category": "roleplaying",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "To Slash",
+      "yiddish": "צעשנײַדן",
+      "pronoun": "",
+      "unhappy": false,
+      "constructed": false,
+      "category": "roleplaying",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "To Stab",
+      "yiddish": "שטעכן",
+      "pronoun": "",
+      "unhappy": false,
+      "constructed": false,
+      "category": "roleplaying",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "To cast a spell on",
+      "yiddish": "פֿאַרכּישופֿן",
+      "pronoun": "",
+      "unhappy": false,
+      "constructed": false,
+      "category": "roleplaying",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "To travel",
+      "yiddish": "אַרומפֿאָרן (איבער/אין/דורך)",
+      "pronoun": "",
+      "unhappy": false,
+      "constructed": false,
+      "category": "roleplaying",
+      "literal": "",
+      "alternative_yiddish": ""
+   },
+   {
+      "english": "Character Sheet",
+      "yiddish": "פּערסאָנאזש בױגן",
+      "pronoun": "דער",
+      "unhappy": false,
+      "constructed": false,
+      "category": "roleplaying",
+      "literal": "",
+      "alternative_yiddish": ""
+   }
+]

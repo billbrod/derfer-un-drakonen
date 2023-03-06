@@ -52,7 +52,7 @@ def create_full_list():
         dfs.append(tmp)
     dfs = pd.concat(dfs)
     with open('vocab.json', 'w') as f:
-        json.dump(dfs.to_dict('records'), f)
+        json.dump(dfs.to_dict('records'), f, ensure_ascii=False, indent=3)
 
 
 if __name__ == '__main__':
