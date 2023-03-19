@@ -15,3 +15,10 @@ you add additional words to `from_google_doc.json` or modify its contents.
 
 The `construct_initial_list.py` also contains some modifications /
 restructuring, which you may also wish to change.
+
+# TODO
+- [ ] add yiddish class to yiddish column
+- [ ] figure out how to add additional style for neologism
+- [ ] add category filter 
+- [ ] add something for literal and additional yiddish
+- [ ] get working on gh pages
