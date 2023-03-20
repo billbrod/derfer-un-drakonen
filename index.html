@@ -48,8 +48,9 @@
                     an issue on the GitHub repo</a>. I am happy to add words or
                     fix any errors I have made. Not all words I am happy with,
                     and there are likely better words out there (though maybe
-                    the ones I have chosen are fine). Any words that I am not
-                    100% happy with have been marked, as have neologisms.
+                    the ones I have chosen are fine). The yellow rows mark words
+                    that I am not 100% happy with, while the bold text marks
+                    words I created.
                 </p>
                 <h2>About me</h2>
                 <p>
@@ -101,13 +102,16 @@
              "data": data,
              "columns": [
                  {'data': 'english'},
-                 {'data': 'yiddish'},
-                 {'data': 'pronoun'},
+                 {'data': 'yiddish', 'className': 'yiddish'},
+                 {'data': 'pronoun', 'className': 'yiddish'},
                  {'data': 'category'},
              ],
              "createdRow": function(row, v, index) {
                  if (v['unhappy']) {
                      $(row).addClass('table-warning')
+                 }
+                 if (v['constructed']) {
+                     $(row).addClass('fw-bold')
                  }
              }
          })
