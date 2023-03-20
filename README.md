@@ -17,6 +17,5 @@ The `construct_initial_list.py` also contains some modifications /
 restructuring, which you may also wish to change.
 
 # TODO
-- [ ] add category filter 
 - [ ] add something for literal and additional yiddish
 - [ ] get working on gh pages
