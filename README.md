@@ -19,5 +19,4 @@ restructuring, which you may also wish to change.
 # TODO
 - [ ] upload pdfs to internet archive and link
 - [ ] get persistent url working
-- [ ] get js to pdf table export working
 - [ ] get working on gh pages
