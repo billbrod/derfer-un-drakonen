@@ -18,7 +18,6 @@ restructuring, which you may also wish to change.
 
 # TODO
 - [ ] add placeholders for licensing, thanking me
-- [ ] add something for literal and additional yiddish
 - [ ] upload pdfs to internet archive and link
 - [ ] get persistent url working
 - [ ] get js to pdf table export working
