@@ -15,8 +15,3 @@ you add additional words to `from_google_doc.json` or modify its contents.
 
 The `construct_initial_list.py` also contains some modifications /
 restructuring, which you may also wish to change.
-
-# TODO
-- [ ] upload pdfs to internet archive and link
-- [ ] get persistent url working
-- [ ] get working on gh pages
