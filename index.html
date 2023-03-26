@@ -141,8 +141,8 @@
              },
              initComplete: function () {
                  $('#vocab_filter input').addClass('yiddish')
-                 $('#vocab_length').after('<div class="col-4 text-center" id="vocab_category_filter"><label>Category: <select id="category_filter"><option value="">all</option></select></label></div>')
-                 $('#vocab_category_filter').after('<button type="button" class="btn btn-light col text-center" id="generate_button" onclick="generate_pdf()">Download PDF of (visible) table</button>')
+                 $('#vocab_length').after('<div class="col-md-4 col-6 text-center" id="vocab_category_filter"><label>Category: <select id="category_filter"><option value="">all</option></select></label></div>')
+                 $('#vocab_category_filter').after('<button type="button" class="btn btn-light col-md-2 col-6 text-center" id="generate_button" onclick="generate_pdf()">Download PDF of (visible) table</button>')
                  this.api()
                      .columns(3)
                      .every(function () {
@@ -161,7 +161,7 @@
                              });
                      });
                  $('#vocab_category_filter, #vocab_length, #vocab_filter, #generate_button').wrapAll('<div class="row align-items-center">')
-                 $('#vocab_length, #vocab_filter').addClass('col')
+                 $('#vocab_length, #vocab_filter').addClass('col-md-2 col-6')
              },
          });
      });
