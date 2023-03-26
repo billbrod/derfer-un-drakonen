@@ -21,3 +21,15 @@ you add additional words to `from_google_doc.json` or modify its contents.
 
 The `construct_initial_list.py` also contains some modifications /
 restructuring, which you may also wish to change.
+
+## Develop
+
+Clone the repo to make changes locally. You can view a local version by running
+a webserver with python: navigate to this directory on the command line and run
+`python -m http.server 8008` (or some other open port) and then navigating to
+`localhost:8008` in your browser. Refresh the browser to view any local changes.
+
+After pushing to github, it will take roughly ~1 minute before the changes are
+reflected on the webiste. You can check out the [actions
+page](https://github.com/billbrod/derfer-un-drakonen/actions) to see the status
+of the build
