@@ -109,6 +109,7 @@
     <script>
      $.getJSON('vocab.json', function(data) {
          $('#vocab').dataTable({
+             "responsive": true,
              "lengthMenu": [[25, 50, 100, -1], [25, 50, 100, "All"]],
              "data": data,
              "columns": [
