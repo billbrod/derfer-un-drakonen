@@ -2,6 +2,12 @@
 
 Yiddish resources for D&amp;D 5e
 
+- Character sheets pdf on the [internet archive](https://archive.org/details/derfer-un-drakonen)
+- Persistent URL for the
+  [website](https://purl.prod.archive.org/derfer-un-drakonen),
+  [pdfs](https://purl.prod.archive.org/derfer-un-drakonen/pdfs) via the internet
+  archive PURL service.
+
 ## Preparation
 
 Vocabulary list originally assembled by Marnie Manning on [Google
